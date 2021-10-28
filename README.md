@@ -1,6 +1,6 @@
 # Sea-Level-Predictor
 
-### Assignment
+### Assignment(FreeCodeCamp)
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
 
@@ -20,10 +20,6 @@ For development, you can use `main.py` to test your functions. Click the "run" b
 ### Testing 
 
 We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
 
 ### Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
