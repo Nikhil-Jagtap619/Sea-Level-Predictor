@@ -16,7 +16,7 @@ def draw_plot():
     plt.scatter(x, y)
 
 
-    # Create first line of best fit
+    # Create first line of best Fit
     res = linregress(x, y)
     x_pred = np.arange(1880, 2051)
     y_pred = res.slope*x_pred + res.intercept
